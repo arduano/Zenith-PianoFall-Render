@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace PianoFallRender
 {
-    public class Class1
+     class Settings
     {
+
     }
 }
