@@ -102,9 +102,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PhysObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Render.cs" />
     <Compile Include="Settings.cs" />
+    <Compile Include="Simulation.cs" />
     <Compile Include="Util.cs" />
   </ItemGroup>
   <ItemGroup>

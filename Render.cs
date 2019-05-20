@@ -316,7 +316,6 @@ void main()
                                     noteVertBuff[pos++] = _x * p.M21 + _y * p.M22 + _z * p.M23 + m.Position.Y;
                                     noteVertBuff[pos++] = _x * p.M31 + _y * p.M32 + _z * p.M33 + m.Position.Z;
                                 }
-
                         float r = n.color.left.R;
                         float g = n.color.left.G;
                         float b = n.color.left.B;
